@@ -10,22 +10,18 @@ public class Cuenta {
     }
 
     public int getSaldo() {
-
         return saldo;
     }
 
     public void setSaldo(int saldo) {
-
         this.saldo = saldo;
     }
 
     public int getSaldoMax() {
-
         return saldoMax;
     }
 
     public void setSaldoMax(int saldoMax) {
-
         this.saldoMax = saldoMax;
     }
 
