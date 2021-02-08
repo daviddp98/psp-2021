@@ -1,4 +1,4 @@
-package org.iesvalleinclan.storeproduct.model;
+package org.iesvalleinclan.storeproduct.model.dto;
 
 // Se omite la primera parte de package, import y anotaciones
 
